@@ -6,7 +6,7 @@
 
 @font-face {
   font-family: 'Comic Neue';
-  src: url('../../assets/fonts/ComicNeue-Regular.woff2') format('woff2');
+  src: url('../assets/fonts/ComicNeue-Regular.woff2') format('woff2');
   font-style: normal;
 }
 
