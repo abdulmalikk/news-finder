@@ -6,6 +6,7 @@ Web application used to search news from all countries, created using vanilla ja
 
 ```sh
 $ git clone https://github.com/abdulmalikk/news-finder.git
+$ cd news-finder
 $ npm i
 ```
 
